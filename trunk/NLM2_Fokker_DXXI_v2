@@ -38,8 +38,8 @@ WEJŚCIA
 CONN 1 - sygnał PWM z odbiornika RC, przełącznik trój-pozycyjny, światła nawigacyjne + beacon
          pozycja przełącznika
          0 - wszystkie światła wyłączone
-         1 - włączone światła pozycyjne
-         2 - włączone światła pozycyjne, światła do lądowania 
+         1 - włączone światła pozycyjne, beacon
+         2 - włączone światła pozycyjne, beacon + strobe, światła do lądowania 
 CONN 2 - nie używane
 CONN 3 - nie używane
 CONN 4 - nie używane
